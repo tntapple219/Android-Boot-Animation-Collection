@@ -16,4 +16,8 @@ Each subfolder contains one or more `bootanimation.zip` files. If multiple style
 
 ---
 
+## 🖼️ Preview
+
+![Reimu](Reimu.Hakurei\preview\preview.gif)
+
 
