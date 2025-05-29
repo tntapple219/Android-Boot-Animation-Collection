@@ -1,0 +1,57 @@
+# Development environment files
+.DS_Store       # macOS specific files
+.Trash          # macOS specific temporary files
+Thumbs.db       # Windows specific thumbnail cache
+
+# The 'Tool/' folder itself, as its contents are managed in another repository
+# This prevents Git from tracking the empty folder or any symlinks/placeholders within it
+Tool/
+
+# Python specific files
+# Compiled Python bytecode
+*.pyc
+__pycache__/
+*.pyd
+*.pyo
+
+# Python virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE specific configuration and project files
+.vscode/        # VS Code specific files
+.idea/          # PyCharm/IntelliJ IDEA specific files
+*.sublime-project # Sublime Text project files
+*.sublime-workspace # Sublime Text workspace files
+
+# Python installer and build artifacts
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Python installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- Bootanimation Previewer specific temporary files ---
+# Temporary directory created by the previewer for extraction
+bootanimation_temp_preview/
+
+# --- ROM Conversion (sdat2img) specific files ---
+# Decompressed .dat files (generated from .dat.br)
+# These are intermediate files from ROM conversion
+*.new.dat
+*.new.dat.br.dat
+
+# Generated .img files (converted from .dat files)
+# These files can be very large and are typically not tracked in Git.
+*.img
+system.img
+vendor.img
+product.img
+userdata.img
