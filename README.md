@@ -26,6 +26,16 @@ This is especially important for phones with unusual aspect ratios.
 
 ---
 
+## 🧰 Tools You Might Like
+
+Looking for tools to manage or create boot animations? Check out my other projects!
+
+* **[Android Boot Animation Viewer](https://github.com/tntapple219/Android-Bootanimation-Viewer)**: A Python tool to easily preview `bootanimation.zip` files on your computer. No need to flash and reboot – see it instantly!
+* **[ROM Extractor (sdat2img + Brotli Support)](https://github.com/tntapple219/sdat2img_brotli)**: A powerful Python script to extract and convert Android OTA update files (`.dat.br` and `.transfer.list`) into usable `.img` disk images.
+* **[Original sdat2img by labrusca](https://github.com/labrusca/sdat2img)**: (Note: This is **NOT** my project.) The original Python script for converting Android system `.dat` and `.transfer.list` files to `.img` format. (Often used as a base for other tools.)
+
+
+---
 ## 🚀 Contributing
 
 Want to share your own boot animation or submit one from your favorite ROM?
