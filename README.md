@@ -35,25 +35,36 @@ Looking for tools to manage or create boot animations? Check out my other projec
 * **[Original sdat2img by labrusca](https://github.com/labrusca/sdat2img)**: (Note: This is **NOT** my project.) The original Python script for converting Android system `.dat` and `.transfer.list` files to `.img` format. (Often used as a base for other tools.)
 * **[payload-dumper-go](https://github.com/ssut/payload-dumper-go/tree/1.3.0)**: (Note: This is **NOT** my project.) An android OTA payload dumper written in Go.
 ---
+
 ## 🚀 Contributing
 
-Want to share your own boot animation or submit one from your favorite ROM?
+Want to share your own boot animation or submit one from your favorite ROM? Your contributions are highly welcome!
 
-1. Fork this repo and create a new folder inside `animations/`.
-2. Include the following in your folder:
-   - `bootanimation.zip`
-   - `README.md` — include at least:
-     - Title
-     - Resolution
-     - Source or author
-     - Frame rate (optional)
-   - (Optional) a GIF or image preview in the `previews/` folder
-3. Submit a Pull Request (PR).
+**Given the wide scope of this project, community contributions are essential to its growth!**
+
+### How to Contribute:
+
+1.  **Fork this repo and create a new folder following the established structure within the appropriate top-level directory** (`Custom Rom/`, `Official Rom/`, or `Other/`).
+    * **Examples:**
+        * For an official firmware animation: `Official Rom/Google/Pixel/Pixel_8/Android 14.0.0/`
+        * For a custom ROM animation: `Custom Rom/LineageOS/Android 13.0.0/`
+        * For a general community animation: `Other/Community_Contributed/Android_14/`
+2.  **Include the following in your folder:**
+    * `bootanimation.zip`
+    * `README.md` — include at least:
+        * `Title`: (e.g., "Pixel 8 Boot Animation - Android 14.0.0")
+        * `Device Model`: (e.g., Pixel 8, Galaxy S23 Ultra, OnePlus 11) - *Required for Official Roms*
+        * `Android Version`: (e.g., 14.0.0, 13.1.0)
+        * `Resolution`: (e.g., 1080x2400)
+        * `Source or author`: (e.g., "Extracted from official firmware", "LineageOS team", "XDA user @YourUsername")
+        * `Frame rate` (optional)
+    * (Optional) a GIF or image preview in the `previews/` folder (please keep preview file sizes reasonable).
+3.  **Submit a Pull Request (PR).**
 
 **Alternatively**, you can open an Issue with:
-- Download link
-- Animation info
-- Preview image
+* A download link to the `bootanimation.zip`
+* Animation info (Device, Android Version, Source, Resolution)
+* A preview image if possible.
 
 ---
 
