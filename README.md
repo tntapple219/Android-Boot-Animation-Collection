@@ -32,7 +32,7 @@ Looking for tools to manage or create boot animations? Check out my other projec
 
 * **[Android Boot Animation Viewer](https://github.com/tntapple219/Android-Bootanimation-Viewer)**: A Python tool to easily preview `bootanimation.zip` files on your computer. No need to flash and reboot – see it instantly!
 * **[ROM Extractor (sdat2img + Brotli Support)](https://github.com/tntapple219/sdat2img_brotli)**: A powerful Python script to extract and convert Android OTA update files (`.dat.br` and `.transfer.list`) into usable `.img` disk images.
-* **[Original sdat2img by labrusca](https://github.com/labrusca/sdat2img)**: (Note: This is **NOT** my project.) The original Python script for converting Android system `.dat` and `.transfer.list` files to `.img` format. (Often used as a base for other tools.)
+* **[Original sdat2img by xpirt](https://github.com/xpirt/sdat2img)**: (Note: This is **NOT** my project.) The original Python script for converting Android system `.dat` and `.transfer.list` files to `.img` format. (Often used as a base for other tools.)
 * **[payload-dumper-go](https://github.com/ssut/payload-dumper-go/tree/1.3.0)**: (Note: This is **NOT** my project.) An android OTA payload dumper written in Go.
 ---
 
