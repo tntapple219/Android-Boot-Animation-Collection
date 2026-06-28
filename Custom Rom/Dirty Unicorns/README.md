@@ -15,6 +15,7 @@ Each subfolder contains one or more `bootanimation.zip` files.
 If multiple styles exist, they are provided with descriptive filenames like `dark`, `light`, `alt`, etc.
 
 ---
+
 ## 📝 Resolutions
 
 | Version       | Resolution                        |
@@ -22,6 +23,7 @@ If multiple styles exist, they are provided with descriptive filenames like `dar
 | v8            | 1080x1920                         |
 
 ---
+
 ## ⚙️ Notes
 
 - Resolution may vary depending on device model and region.
