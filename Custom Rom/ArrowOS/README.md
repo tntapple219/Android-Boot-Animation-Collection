@@ -1,4 +1,4 @@
-# 🐉 Resurrection Remix Boot Animations
+# ⬆️ ArrowOS Boot Animations
 
 This folder contains boot animations extracted from various versions of **ArrowOS**, the Android skin developed by ArrowOS.
 
