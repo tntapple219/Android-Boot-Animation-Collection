@@ -29,7 +29,7 @@ If multiple styles exist, they are provided with descriptive filenames like `dar
 ## ⚙️ Notes
 
 - Resolution may vary depending on device model and region.
-- If animation looks distorted, edit `desc.txt` to fit your screen resolution (e.g. `1080 2340`).
+- If animation looks distorted, edit `desc.txt` to fit your screen resolution (e.g. `1080 2340, 720 1280, 480 854`) etc.
 - All content belongs to their original source: **Nameless Rom**
 
 ---
