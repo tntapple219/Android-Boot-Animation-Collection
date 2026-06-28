@@ -8,7 +8,7 @@ This folder contains boot animations extracted from various versions of **ArrowO
 
 | Folder       | Description                        |
 |--------------|------------------------------------|
-| `v9.x/`    | Boot animations from ArrowOS v9.x builds |
+| `v9.0/`    | Boot animations from ArrowOS v9.x builds |
 | ...          | Other ArrowOS versions |
 
 Each subfolder contains one or more `bootanimation.zip` files.  
