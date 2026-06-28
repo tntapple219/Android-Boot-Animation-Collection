@@ -1,4 +1,4 @@
-# 🐉 Dirty Unicorns Boot Animations
+# 🦄  Dirty Unicorns Boot Animations
 
 This folder contains boot animations extracted from various versions of **Dirty Unicorns**, the Android skin developed by Dirty Unicorns.
 
