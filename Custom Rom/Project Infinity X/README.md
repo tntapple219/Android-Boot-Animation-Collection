@@ -1,4 +1,5 @@
-# 🐉 Project Infinity X Boot Animations
+# <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/aa64b0bf-bf28-4224-af55-768f70582734" />
+# ♾️ Project Infinity X Boot Animations
 
 This folder contains boot animations extracted from various versions of **Project Infinity X**, the Android skin developed by Project Infinity X.
 
