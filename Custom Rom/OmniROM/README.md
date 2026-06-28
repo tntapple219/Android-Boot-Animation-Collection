@@ -1,4 +1,5 @@
-# 🐉 OmniROM Boot Animations
+# <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/6fbc41a3-7e40-44d0-a7a1-e9c4f85bdad6" />
+# 🌀 OmniROM Boot Animations
 
 This folder contains boot animations extracted from various versions of **OmniROM**, the Android skin developed by OmniROM.
 
