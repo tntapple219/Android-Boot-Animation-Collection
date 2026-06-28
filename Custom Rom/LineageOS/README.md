@@ -1,4 +1,5 @@
-# 🐉 LineageOS Boot Animations
+# <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/57ecba48-3e0f-4ac6-924d-e5df0d104216" />
+# 🌳 LineageOS Boot Animations
 
 This folder contains boot animations extracted from various versions of **LineageOS**, the Android skin developed by LineageOS.
 
