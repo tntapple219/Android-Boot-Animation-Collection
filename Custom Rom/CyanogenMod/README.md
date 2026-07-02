@@ -1,4 +1,5 @@
-# 🐉 CyanogenMod Boot Animations
+# <img width="200" height="200" alt="1652114" src="https://github.com/user-attachments/assets/77663dc1-4d6f-4ac3-86d2-af92e5d84f0d" />
+# 🤖 CyanogenMod Boot Animations
 
 This folder contains boot animations extracted from various versions of **CyanogenMod**, the Android skin developed by CyanogenMod.
 
