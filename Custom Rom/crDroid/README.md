@@ -10,7 +10,7 @@ This folder contains boot animations extracted from various versions of **crDroi
 | Folder       | Description                        |
 |--------------|------------------------------------|
 | `v11/`    | Boot animations from crDroid v11 builds |
-| `v12/`    | Boot animations from crDroid v11 builds |
+| `v12/`    | Boot animations from crDroid v12 builds |
 | ...          | Other crDroid versions |
 
 Each subfolder contains one or more `bootanimation.zip` files.  
