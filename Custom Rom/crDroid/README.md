@@ -40,6 +40,6 @@ the -1080 from the filename.
 ## 📚 Sources
 
 - v11: Extracted from crDroid 11.2 for the Nokia 6.1.
-- v12: Extracted the .tar files from here https://github.com/crdroidandroid/android_vendor_addons/tree/16.0/prebuilt/bootanimation , added a desc.txt to each animation and then repackaged the bootanimations to a .zip file.
+- v12: Extracted the  `.tar` files from here https://github.com/crdroidandroid/android_vendor_addons/tree/16.0/prebuilt/bootanimation , added a `desc.txt` to each animation and then repackaged the bootanimations to a `.zip` file.
 
 ---
