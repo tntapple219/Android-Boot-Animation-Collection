@@ -9,7 +9,8 @@ This folder contains boot animations extracted from various versions of **crDroi
 
 | Folder       | Description                        |
 |--------------|------------------------------------|
-| `v11/`    | Boot animations from Dirty Unicorns v8 builds |
+| `v11/`    | Boot animations from crDroid v11 builds |
+| `v12/`    | Boot animations from crDroid v11 builds |
 | ...          | Other crDroid versions |
 
 Each subfolder contains one or more `bootanimation.zip` files.  
@@ -21,8 +22,8 @@ If multiple styles exist, they are provided with descriptive filenames like `dar
 
 | Version       | Resolutions                       |
 |---------------|-----------------------------------|
-| v11           | 680x680                          |
-
+| v11           | 680x680                           |
+| v12           | Multiple                          |
 
 ---
 
@@ -38,6 +39,7 @@ the -1080 from the filename.
 
 ## 📚 Sources
 
-v11: Extracted from crDroid 11.2 for the Nokia 6.1.
+- v11: Extracted from crDroid 11.2 for the Nokia 6.1.
+- v12: Extracted the .tar files from here https://github.com/crdroidandroid/android_vendor_addons/tree/16.0/prebuilt/bootanimation , added a desc.txt to each animation and then repackaged the bootanimations to a .zip file.
 
 ---
